@@ -9,7 +9,7 @@
 
 - 📫 I like to chat, meet new people. My **[mailbox](ishanmondal985@gmail.com)** is always open for you guys. 
 
-### Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
