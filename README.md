@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ishan from India</h1>
 <h3 align="center">I am passionate about Web Development and Software Development.</h3>
 
-<p align="left"> <a href="https://twitter.com/is_mondal7" target="blank"><img src="https://img.shields.io/twitter/follow/is_mondal7?logo=twitter&style=for-the-badge" alt="is_mondal7" /></a> </p>
+<p align="left"> <a href="https://twitter.com/IshanMondaljs" target="blank"><img src="https://img.shields.io/twitter/follow/is_mondal7?logo=twitter&style=for-the-badge" alt="is_mondal7" /></a> </p>
 
 - 🌱 I’m currently learning  **Mongo DB** and database related things.
 
