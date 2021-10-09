@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ishan from India</h1>
 <h3 align="center">I am passionate about Web Development and Software Development.</h3>
 
-<p align="left"> <a href="https://twitter.com/IshanMondaljs" target="blank"><img src="https://img.shields.io/twitter/follow/is_mondal7?logo=twitter&style=for-the-badge" alt="is_mondal7" /></a> </p>
+<p align="left"> <a href="https://https://twitter.com/IshanMondaljs" target="blank"><img src="https://img.shields.io/twitter/follow/is_mondal7?logo=twitter&style=for-the-badge" alt="is_mondal7" /></a> </p>
 
 - 🌱 I’m currently learning  **Mongo DB** and database related things.
 
@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/codishan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/codishan" height="30" width="40" /></a>
-<a href="https://twitter.com/is_mondal7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="is_mondal7" height="30" width="40" /></a>
+<a href="https://https://twitter.com/IshanMondaljs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="is_mondal7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ishan-mondal-5430011a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishan-mondal-5430011a1/" height="30" width="40" /></a>
 <a href="https://instagram.com/ig_ismondal7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig_ismondal7/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ishanim7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ishanim7" height="30" width="40" /></a>
