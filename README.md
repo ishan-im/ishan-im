@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ishan from India</h1>
-<h3 align="center">I am passionate about Web Development and Software Development.</h3>
+<h1 align="center">Hi 👋, I'm Ishan from India &#1703</h1>
+<h3 align="center">I am a passionate Developer</h3>
 
 <!-- <p align="left"> <a href="https://twitter.com/IshanMondaljs" target="blank"><img src="https://img.shields.io/twitter/follow/is_mondal7?logo=twitter&style=for-the-badge" alt="is_mondal7" /></a> </p> -->
 
@@ -7,7 +7,7 @@
 
 - 📝 I love to build things and make my hand dirty by creating things. I share my experience by using blog post. My post are available on Hashnode and you can check it at [Hashnode](https://hashnode.com/@ishanmondal)
 
-- 📫 I like to chat, meet new people. My **[mailbox](ishanmondal985@gmail.com)** is always open for you guys. 
+- 📫 I like to chat, meet new people. My <a href="mailto:ishanmondal985@gmail.com">mailbox</a> is always open for you guys. 
 
 
 <!-- BLOG-POST-LIST:START -->
