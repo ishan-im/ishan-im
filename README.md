@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ishan from India &#1703</h1>
+<head>
+<meta charset="UTF-8">
+</head>  
+<h1 align="center">Hi 👋, I'm Ishan from India &#127470;&#127475;</h1>
 <h3 align="center">I am a passionate Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/IshanMondaljs" target="blank"><img src="https://img.shields.io/twitter/follow/IshanMondaljs?logo=twitter&style=for-the-badge" alt="IshanMondaljs" /></a> </p>
