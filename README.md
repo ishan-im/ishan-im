@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/IshanMondaljs" target="blank"><img src="https://img.shields.io/twitter/follow/IshanMondaljs?logo=twitter&style=for-the-badge" alt="IshanMondaljs" /></a> </p>
 
-- 🌱 I’m currently learning  **Mongo DB** and database related things.
+- 🌱 I’m currently learning  **Web 3** and **Blockchain** related things.
 
 - 📝 I love to build things and make my hand dirty by creating things. I share my experience by using blog post. My post are available on Hashnode and you can check it at [Hashnode](https://hashnode.com/@ishanmondal)
 
