@@ -1,6 +1,10 @@
 <head>
 <meta charset="UTF-8">
 </head>  
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/76674591/193411913-1e70d4db-3298-45cd-b21b-4cd357f78287.gif"/>
+</p>
 <h1 align="center">Hi 👋, I'm Ishan from India &#127470;&#127475;</h1>
 <h3 align="center">I am a passionate Developer</h3>
 
