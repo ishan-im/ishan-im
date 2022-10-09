@@ -35,3 +35,5 @@
 
 | [![Ishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishan-im)](https://github.com/ishan-im/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishan-im&layout=compact)](https://github.com/ishan-im/github-readme-stats) |
 | --- | --- |
+
+[![@ishan's Holopin board](https://holopin.io/api/user/board?user=ishan)](https://holopin.io/@ishan)
