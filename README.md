@@ -14,7 +14,7 @@
 
 - 📝 I love to build things and make my hand dirty by creating things. I share my experience by using blog post. My post are available on Hashnode and you can check it at [Hashnode](https://hashnode.com/@ishanmondal)
 
-- 📫 I like to chat, meet new people. My <a href="mailto:ishanmondal985@gmail.com">mailbox</a> is always open for you guys. 
+- 📫 I like to chat, meet new people. My <a href="mailto:ishanmondal985@gmail.com">mailbox</a> is always open for a healthy conversation. 
 
 
 <!-- BLOG-POST-LIST:START -->
