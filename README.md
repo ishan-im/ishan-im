@@ -42,12 +42,13 @@
     <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/800px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/> </a>
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> </a>
+     <a href="https://www.postgresql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postgressql" width="40" height="40"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/180px-React-icon.svg.png" alt="react" width="40" height="40"/> </a>
     <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
     <a href="https://redux.js.org" target="_blank"> <img src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" alt="redux" width="40" height="40"/> </a>
+    <a href="https://docs.soliditylang.org/en/v0.8.17/" target="_blank"> <img src="https://docs.soliditylang.org/en/v0.8.17/_static/logo.svg" alt="solidity" width="40" height="43"/> </a>
     <a href="https://sass-lang.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/768px-Sass_Logo_Color.svg.png?20150315202757" alt="sass" width="40" height="40"/> </a>
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://docs.soliditylang.org/en/v0.8.17/" target="_blank"> <img src="https://docs.soliditylang.org/en/v0.8.17/_static/logo.svg" alt="solidity" width="40" height="43"/> </a>
 </p>
 
 | [![Ishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishan-im)](https://github.com/ishan-im/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishan-im&layout=compact)](https://github.com/ishan-im/github-readme-stats) |
