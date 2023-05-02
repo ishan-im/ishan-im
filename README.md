@@ -23,7 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://twitter.com/IshanMondaljs" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/768px-Twitter-logo.svg.png?20220821125553" alt="is_mondal7" height="30" width="40" /></a>
+<a href="https://twitter.com/IshanMondaljs" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" alt="is_mondal7" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/ishanmondaljs/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/108px-LinkedIn_icon.svg.png?20210220164014" alt="ishan-mondal-5430011a1/" height="40" width="40" /></a>
 <a href="https://instagram.com/ig_ismondal7/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/900px-Instagram_icon.png?20200512141346" alt="ig_ismondal7/" height="40" width="40" /></a>
 
