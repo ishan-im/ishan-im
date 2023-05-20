@@ -49,6 +49,8 @@
     <a href="https://docs.soliditylang.org/en/v0.8.17/" target="_blank"> <img src="https://docs.soliditylang.org/en/v0.8.17/_static/logo.svg" alt="solidity" width="40" height="43"/> </a>
     <a href="https://sass-lang.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/768px-Sass_Logo_Color.svg.png?20150315202757" alt="sass" width="40" height="40"/> </a>
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png?20221110153201" alt="typescript" width="40" height="40"/> </a>
+     <a href="https://github.com/ethereum" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eth-diamond-rainbow.png" alt="etherum" width="40" height="60"/> </a>
 </p>
 
 | [![Ishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishan-im)](https://github.com/ishan-im/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishan-im&layout=compact)](https://github.com/ishan-im/github-readme-stats) |
