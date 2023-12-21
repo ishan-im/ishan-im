@@ -20,7 +20,7 @@
 
 
 
-- 🌱 Full-Stack Developer with expertise in MERN stack, AWS, and API design (GraphQL and REST)
+- 🌱 Full-Stack Developer with expertise in MERN stack,  and API design.
 
 - 📝 I'm passionate about Web 3.0 development and have crafted smart contracts, DApps, and decentralized systems
 
