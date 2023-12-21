@@ -29,7 +29,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">💻 Connect with me:</h3>
 <p align="left">
 
 <a href="https://twitter.com/IshanMondaljs" target="blank"><img align="center" src="https://about.twitter.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png" alt="is_mondal7" height="40" width="40" /></a>
@@ -37,7 +37,7 @@
 <a href="https://instagram.com/ig_ismondal7/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/900px-Instagram_icon.png?20200512141346" alt="ig_ismondal7/" height="40" width="40" /></a>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">⛓️ Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/768px-Bootstrap_logo.svg.png?20210507000024" alt="bootstrap" width="43" height="40"/> </a> 
     <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/C_plus_plus.svg/150px-C_plus_plus.svg.png?20160417210143" alt="cplusplus" width="43" height="40"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/544px-CSS3_logo_and_wordmark.svg.png?20160530175649" alt="css3" width="35" height="40"/> </a>
