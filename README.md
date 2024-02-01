@@ -43,9 +43,9 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/544px-CSS3_logo_and_wordmark.svg.png?20160530175649" alt="css3" width="35" height="40"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" alt="express" width="40" height="40"/> </a>
     <a href="https://docs.ethers.org/v6/" target="_blank"> <img src="https://assets-global.website-files.com/6433e6f821ae13dd37394322/64393ec631a32b4da0ee030c_ethersjs-p-1080.png" alt="express" width="40" height="40"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png?20170517184425" alt="html5" width="35" height="40"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png?20170517184425" alt="html5" width="40" height="45"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="javascript" width="40" height="40"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" alt="mongodb" width="40" height="40"/> </a>
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" alt="mongodb" width="45" height="50"/> </a>
     <a href="https://nextjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="nextjs" width="43" height="43"/> </a>
     <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png" alt="nodejs" width="40" height="40"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
@@ -54,10 +54,10 @@
     <a href="https://reactjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/180px-React-icon.svg.png" alt="react" width="40" height="40"/> </a>
     <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
     <a href="https://redux.js.org" target="_blank"> <img src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" alt="redux" width="40" height="40"/> </a>
-    <a href="https://docs.soliditylang.org/en/v0.8.17/" target="_blank"> <img src="https://docs.soliditylang.org/en/v0.8.17/_static/logo.svg" alt="solidity" width="40" height="43"/> </a>
+    <a href="https://docs.soliditylang.org/en/v0.8.17/" target="_blank"> <img src="https://docs.soliditylang.org/en/v0.8.17/_static/logo.svg" alt="solidity" width="45" height="48"/> </a>
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
      <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png?20221110153201" alt="typescript" width="40" height="40"/> </a>
-     <a href="https://github.com/ethereum" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eth-diamond-rainbow.png" alt="etherum" width="40" height="60"/> </a>
+     <a href="https://github.com/ethereum" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eth-diamond-rainbow.png" alt="etherum" width="40" height="45"/> </a><a href="https://hardhat.org/" target="_blank"> <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="hardhat" width="40" height="40"/> </a>
 </p>
 
 | [![Ishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishan-im)](https://github.com/ishan-im/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishan-im&layout=compact)](https://github.com/ishan-im/github-readme-stats) |
