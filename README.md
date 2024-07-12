@@ -34,16 +34,14 @@
 
 <a href="https://twitter.com/IshanMondaljs" target="blank"><img align="center" src="https://about.twitter.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png" alt="is_mondal7" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/ishanmondaljs/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/108px-LinkedIn_icon.svg.png?20210220164014" alt="ishan-mondal-5430011a1/" height="40" width="40" /></a>
-<a href="https://instagram.com/ig_ismondal7/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/900px-Instagram_icon.png?20200512141346" alt="ig_ismondal7/" height="40" width="40" /></a>
+<a href="https://instagram.com/ig_ishanmondal/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/900px-Instagram_icon.png?20200512141346" alt="ig_ismondal7/" height="40" width="40" /></a>
 
 
 <h3 align="left">⛓️ Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/768px-Bootstrap_logo.svg.png?20210507000024" alt="bootstrap" width="43" height="40"/> </a> 
+<p align="left">  
     <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/C_plus_plus.svg/150px-C_plus_plus.svg.png?20160417210143" alt="cplusplus" width="43" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/544px-CSS3_logo_and_wordmark.svg.png?20160530175649" alt="css3" width="35" height="40"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" alt="express" width="40" height="40"/> </a>
     <a href="https://docs.ethers.org/v6/" target="_blank"> <img src="https://assets-global.website-files.com/6433e6f821ae13dd37394322/64393ec631a32b4da0ee030c_ethersjs-p-1080.png" alt="express" width="40" height="40"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png?20170517184425" alt="html5" width="40" height="45"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="javascript" width="40" height="40"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" alt="mongodb" width="45" height="50"/> </a>
     <a href="https://nextjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="nextjs" width="43" height="43"/> </a>
