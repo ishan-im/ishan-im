@@ -8,7 +8,7 @@
   <img src="https://user-images.githubusercontent.com/76674591/193411913-1e70d4db-3298-45cd-b21b-4cd357f78287.gif"/>
 </p>
 
-<h1 align="center">👋 Hey there! I'm Ishan, a Full-Stack Developer 🚀</h1>
+<h1 align="center">👋 Hey there! I'm Ishan 🚀</h1>
 
 <p align="center">
   <em>Turning ideas into reality through technology</em> &#127470;&#127475;
@@ -20,11 +20,11 @@
 
 
 
-- 🌱 Full-Stack Developer with expertise in MERN stack,  and API design.
+- 🌱 Full-Stack Developer with expertise in MERN stack.
 
 - 📝 I'm passionate about Web 3.0 development and have crafted smart contracts, DApps, and decentralized systems
 
-- 💡 Let's collaborate on your next game-changing project! With a proven track record and a passion for staying ahead in the industry, I'm committed to shaping the future of tech.
+- 💡 Let's collaborate on your next game-changing project - with a proven track record and a passion for staying ahead in the industry, I'm committed to shaping the future of tech.
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
